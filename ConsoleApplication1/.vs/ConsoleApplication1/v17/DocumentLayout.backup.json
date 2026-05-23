@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\judge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\judge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC7E2507-73DA-41B2-B0F2-003CF5979890}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "judge.h",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\judge.h",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.h",
               "RelativeToolTip": "ConsoleApplication1\\judge.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-23T06:14:49.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "input.h",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\input.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\input.h",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "judge.cpp",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\judge.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\judge.cpp",
               "RelativeToolTip": "ConsoleApplication1\\judge.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-23T06:14:23.691Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\input.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\input.cpp",
               "RelativeToolTip": "ConsoleApplication1\\input.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-23T06:14:12.142Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
               "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\25a31a0044\\GameProgramming2Kadai\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
               "RelativeToolTip": "ConsoleApplication1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-23T05:12:20.238Z",
               "EditorCaption": ""

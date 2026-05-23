@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// ‰ğ“š‚Ìİ’è
+// ‰ğ“š‚ğ—”¶¬
 int setAnswer()
 {
     srand((unsigned int)time(NULL));

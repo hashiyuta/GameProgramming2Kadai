@@ -7,13 +7,17 @@ int main()
     int answer, number, check;
     bool clear = false;
 
+    // 乱数生成
     answer = setAnswer();
 
     while (true)
     {
+        // 入力取得
         number = inputNumber();
+        // 解答比較
         check = compare(answer, number);
-        judge(check, clear);
+        // 結果表示
+        disp(check, clear);
         if (clear)break;
     }
 

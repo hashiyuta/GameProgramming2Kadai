@@ -18,7 +18,7 @@ int compare(int& answerRef, int& numberRef)
 }
 
 // Œ‹‰Ê•\Ž¦
-void judge(int& checkRef, bool& clear)
+void disp(int& checkRef, bool& clear)
 {
     switch (checkRef)
     {
