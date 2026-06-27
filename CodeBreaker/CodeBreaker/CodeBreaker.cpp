@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <time.h>
+#include <random>
 #include "CodeBreaker.h"
 
 int main()
@@ -11,14 +12,18 @@ int main()
 
 	Check::CheckStruct* pass = nullptr;
 
+	for (int i = 0; i < 4; i++)
+	{
+		// 乱数生成
+		answer.SetNumber(i);
+	}
+
 	while (true)
 	{
 		for (int i = 0; i < 4; i++)
 		{
-			// 乱数生成
-			answer.SetNumber(i);
 			// 入力取得
-			input.GetNumber(i);  // 乱数生成のための入力によるラグ
+			input.GetNumber(i);
 		}
 
 		for (int a = 0; a < 4; a++)
@@ -46,8 +51,11 @@ int main()
 // 乱数生成
 void Answer::SetNumber(int i)
 {
-	srand((unsigned int)time(NULL));
-	answerNum[i] = rand() % 10;
+	std::random_device rd;
+	std::mt19937 gen(rd());
+	std::uniform_int_distribution<> distrib(0, 9);
+
+	answerNum[i] = distrib(gen);
 }
 
 // 入力取得
